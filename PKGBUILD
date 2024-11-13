@@ -14,7 +14,8 @@ depends=(
   'gcc'
   'git'
   'glew'
-  'libxml2')
+  'libxml2'
+  'pandoc')
 optdepends=(
   'doxygen: generate documentation'
   'graphviz: generate documentation'
